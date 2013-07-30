@@ -1,0 +1,6 @@
+/applicationContext-mvc.xml
+/applicationContext-shiro.xml
+/applicationContext.xml
+/ehcache.xml
+/log4j.properties
+/net
